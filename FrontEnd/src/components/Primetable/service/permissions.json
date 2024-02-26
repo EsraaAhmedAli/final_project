@@ -1,0 +1,23 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"testnestproject"},
+{"type":"table","name":"permissions","database":"testnestproject","data":
+[
+{"type":"delete events","permission_id":"1"},
+{"type":"add events","permission_id":"2"},
+{"type":"add faculties","permission_id":"3"},
+{"type":"update news","permission_id":"4"},
+{"type":"add admins","permission_id":"5"},
+{"type":"update events","permission_id":"6"},
+{"type":"add news related to the commerce faculty","permission_id":"7"},
+{"type":"add events related to the science faculty","permission_id":"8"},
+{"type":"add news","permission_id":"9"},
+{"type":"delete news","permission_id":"10"},
+{"type":"add news related to the FCI faculty","permission_id":"11"},
+{"type":"add news related to the medicine faculty","permission_id":"12"},
+{"type":"add news related to the art faculty","permission_id":"13"},
+{"type":"delete news related to the art faculty","permission_id":"14"},
+{"type":"delete news related to the communication faculty","permission_id":"15"}
+]
+}
+]

@@ -1,0 +1,46 @@
+.button2 {
+    font-weight: 500;
+    font-size: 25px;
+    color: white;
+    border: 0px;
+    border-radius: 12px;
+    cursor: pointer;
+    padding: 1px 30px;
+    width: 15%;
+    height: 50px;
+    background: crimson;
+    margin-top: 30px;
+    margin-left: 1440px;
+    margin-bottom: 2px;
+    text-align: center;
+
+
+}
+
+.button1:hover {
+    color: crimson;
+    background-color: #e8e8e9;
+
+}
+
+
+
+
+.first {
+    display: flex;
+    gap: 2;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+.card {
+    width: 80vw;
+    background-color: #e8e8e9;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-top: 2px;
+
+}

@@ -1,0 +1,26 @@
+.button {
+
+    font-weight: 500;
+    font-size: 25px;
+    outline: 0;
+    border: 0;
+    color: white;
+    border-radius: 12px;
+    cursor: pointer;
+    padding: 1px 30px;
+    width: 20%;
+    height: 50px;
+    background: crimson;
+    margin-top: 10px;
+    margin-left: 71%;
+    margin-bottom: 33px;
+    text-align: center;
+
+
+}
+
+.error {
+    color: red;
+    font-size: 20px;
+    margin-top: 2;
+}

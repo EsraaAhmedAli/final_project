@@ -1,0 +1,72 @@
+[
+ {
+  "admin_id": 1,
+  "email": "alaa@gmail.com",
+  "password": "$2a$07$uhAMbvJ\/zCewbJ7cJLn6f.uMmoPtlDx8.nC6lkwC00VsnSoTj2MhO",
+  "is_active": 1,
+  "name": "alaa"
+ },
+ {
+  "admin_id": 2,
+  "email": "aya@gmail.com",
+  "password": "$2a$07$dIoNX4yUZwL4\/Zw2u04bLefPmzqHARnPSshRsOcxCwGDs8F\/1eF5y",
+  "is_active": 1,
+  "name": "aya"
+ },
+ {
+  "admin_id": 3,
+  "email": "esraa@gmail.com",
+  "password": "$2a$07$g4dJ7gvSj5\/rcv2Wdrw8nO0GiB2sr9WkEVn0oPhDPhBAL90T1L8gW",
+  "is_active": 1,
+  "name": "esraa"
+ },
+ {
+  "admin_id": 4,
+  "email": "amira@gmail.com",
+  "password": "$2a$07$wZn.znwIFjEFNMmKLUIcKeBbib\/xNa50Aj1KiDNOZRQDT8tTzWfNu",
+  "is_active": 0,
+  "name": "amira"
+ },
+ {
+  "admin_id": 5,
+  "email": "laila@gmail.com",
+  "password": "$2a$07$avh9nHjpHaRLGqeXwb221Oo9b5NJdJNsANJPLHQlLw8Gp1ZRv6gIu",
+  "is_active": 1,
+  "name": "laila"
+ },
+ {
+  "admin_id": 6,
+  "email": "zain@gmail.com",
+  "password": "$2a$07$gkT2DRuVyKgqhNibmbUtluqXQJXP0OKBhLwj2dGT8EiW\/3D3l.42W",
+  "is_active": 1,
+  "name": "zain"
+ },
+ {
+  "admin_id": 7,
+  "email": "yosra@gmail.com",
+  "password": "yosra11",
+  "is_active": 0,
+  "name": "yosra"
+ },
+ {
+  "admin_id": 8,
+  "email": "yara@gmail.com",
+  "password": "$2a$07$8xyn9b\/W3JzkgpNcD9kgRusXDOqwPMKzG.9054s9DNBavGwXFT8.i",
+  "is_active": 1,
+  "name": "yara"
+ },
+ {
+  "admin_id": 9,
+  "email": "sara@gmail.com",
+  "password": "$2a$07$XwRbx88sVOA51f0DNdLdNe.0W6HEx80Era8gNw9lTC0I9XIrNsjvm",
+  "is_active": 0,
+  "name": "sara"
+ },
+ {
+  "admin_id": 10,
+  "email": "adel@gmail.com",
+  "password": "$2a$07$RQYMyPH8yKqtdTuPE0BBpOwtoZYY9..8s26wnWcX7e4FSkAWEHL.q",
+  "is_active": 1,
+  "name": "adel"
+ }
+]

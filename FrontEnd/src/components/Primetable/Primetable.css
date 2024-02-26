@@ -1,0 +1,20 @@
+
+.first{
+    
+    display: flex ;
+    gap: 2;
+    justify-content: space-between;
+    align-items: center;
+
+    
+
+}
+.card{
+    width: 80vw;
+    
+    background-color: #e8e8e9;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-top: 55px; 
+   
+}
